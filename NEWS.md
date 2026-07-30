@@ -1,3 +1,7 @@
+# ips 0.1.0.9000 (development)
+
+* Update examples for CRAN compliance
+
 # ips 0.1.0 (2026-03-20)
 
 * Added an example for `fixNodes()` to show the standard node numbering in `phylo` objects.
